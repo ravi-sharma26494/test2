@@ -1,1 +1,5 @@
 // first file
+// adding the repository in the github
+  -- git remote add origin https://github.com/ravi-sharma26494/test2.git
+
+// this is a new change
